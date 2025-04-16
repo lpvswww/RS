@@ -1,4 +1,4 @@
-I am a recommendation algorithm engineer at Tencent, focusing on **Recommendation Algorithms** and **Reinforcement Learning**. Our team has lots of practical experience in **RS(Recommendation Systems)** and has also published several papers of high practical value. Welcome to exchange ideas. We can communicate via email (liupengvswww@gmail.com or liupengvswww@163.com)
+I am a recommendation algorithm engineer at Tencent, focusing on **Recommendation Algorithms** and **Reinforcement Learning**. Our team has lots of practical experience in **RS (Recommendation System)** and has also published several papers of high practical value. Welcome to exchange ideas. We can communicate via email (liupengvswww@gmail.com or liupengvswww@163.com)
 
 ### Some of the publicly disclosed innovative work is as follows:
 
